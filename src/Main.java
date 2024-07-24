@@ -17,8 +17,8 @@ public class Main {
         System.out.println();
         System.out.println("Задача №3");
 
-        String sustimFullName = fullName.replace('ё', 'е');
-        System.out.println("Данные Ф. И. О. сотрудника —" + sustimFullName);
+        String systemFullName = fullName.replace('ё', 'е');
+        System.out.println("Данные Ф. И. О. сотрудника — " + systemFullName);
 
 
 
