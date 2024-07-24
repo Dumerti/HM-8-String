@@ -20,9 +20,6 @@ public class Main {
         String sustimFullName = fullName.replace('ё', 'е');
         System.out.println("Данные Ф. И. О. сотрудника —" + sustimFullName);
 
-        System.out.println();
-        System.out.println("Задача №4");
-
 
 
 
